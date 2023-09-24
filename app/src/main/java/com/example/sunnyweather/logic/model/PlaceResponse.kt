@@ -1,4 +1,4 @@
-package com.example.sunnyweather.ui.model
+package com.example.sunnyweather.logic.model
 
 import com.google.gson.annotations.SerializedName
 
